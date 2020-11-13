@@ -1,0 +1,2 @@
+Today's Model Exam question was about FTP.
+Irfhana Zakir Hussain implememted the FTP program
